@@ -21,5 +21,5 @@
 
 ## 🎓 About me
 
-Studying **Java Systems Development**, graduating June 2027. [![School](https://img.shields.io/badge/School-Edugrade-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EduEdugrade)
+Studying **Java Systems Development**, graduating June 2027. [![School](https://img.shields.io/badge/School-Edugrade-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EduEdugrade).
 Focused on backend with Spring Boot, also building fullstack apps on the side.
