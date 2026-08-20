@@ -20,7 +20,7 @@
 
 ## 🚀 Projects
 
-### [Car Market API](https://github.com/abmi55/CarMarket-fullstack-devops](https://github.com/abmi55/carmarket-fullstack-jwt)
+### [Car Market API](https://github.com/abmi55/carmarket-fullstack-jwt)
 
 A full-stack car marketplace built with React, Spring Boot, MySQL, Docker, and JWT authentication.
 
