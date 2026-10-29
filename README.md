@@ -18,6 +18,11 @@ My main focus is **backend development with Java and Spring Boot**, while I also
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square)
 
+### 📖 API & Documentation
+
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
+![Swagger UI](https://img.shields.io/badge/Swagger_UI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
 ### 🗄️ Data & Persistence
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
@@ -48,6 +53,12 @@ My main focus is **backend development with Java and Spring Boot**, while I also
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
 
+## 🧩 API Design & Engineering Practices
+
+- **REST API design:** Resource-oriented endpoints, API versioning, input validation, and consistent error handling.
+- **Contract-first development:** Designing and documenting API contracts with OpenAPI.
+- **Spring Boot engineering:** API security, automated testing, CI pipelines, and production-focused application practices.
+
 ---
 
 ## 🚀 Projects
@@ -71,16 +82,6 @@ Includes **JWT authentication**, role-based access control, car listing manageme
 
 **Tech:**
 `Java 21` · `Spring Boot` · `Spring Security` · `JWT` · `MySQL` · `React` · `Docker` · `GitHub Actions`
-
----
-
-## 📚 Currently Learning
-
-* Advanced REST API design
-* OpenAPI
-* Contract-first API development
-* API versioning & validation
-* Production-ready Spring Boot practices
 
 ---
 
