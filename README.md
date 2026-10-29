@@ -52,6 +52,17 @@ My main focus is **backend development with Java and Spring Boot**, while I also
 
 ## 🚀 Projects
 
+### 🍽️ [Restaurant API](https://github.com/abmi55/Restaurant-api)
+
+A restaurant reservation **REST API built with Java 25 and Spring Boot 4.1**, designed around real-world booking workflows. Guests can make and view their own reservations, staff can confirm, seat, and cancel bookings, and administrators can manage restaurants.
+
+Features **Auth0-based authentication and role-based authorization**, concurrency-safe capacity checks, booking status management, HATEOAS links, ETags, API validation, and Swagger/OpenAPI documentation. Includes automated tests, GitHub Actions CI, and Docker deployment configuration.
+
+**Tech:**
+`Java 25` · `Spring Boot 4.1` · `Spring Security` · `Auth0` · `Spring Data JPA` · `PostgreSQL` · `Docker` · `GitHub Actions`
+
+---
+
 ### 🚗 [Car Market](https://github.com/abmi55/carmarket-fullstack-jwt)
 
 A full-stack car marketplace built with **Java 21, Spring Boot, React, MySQL, and Docker**.
